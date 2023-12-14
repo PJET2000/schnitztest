@@ -1,0 +1,6 @@
+baseURL = 'https://Schnitzmoebel-Test.github.io/'
+languageCode = 'en-us'
+title = 'Schnitzmoebltest'
+
+theme="contrast-hugo"
+
